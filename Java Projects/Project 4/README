@@ -1,1 +1,13 @@
+Problem: Nintendo is developing a new Mario baseball game for Nintendo Switch. As an (unpaid) intern for
+Nintendo this semester, you have been given the task of developing a system to calculate player stats and
+determine the league leaders in several different baseball categories, such as hits, strikeouts and walks. 
 
+Goal: Read in a file containing individual players' statistics and use hashmaps store the players' statistics and 
+to determine wich league the statistic belongs to. 
+
+Input File: 
+keyfile.txt (corresponds key to statistic)
+sample_playbyplay.txt
+
+Output File:
+sample_boxscore.txt
