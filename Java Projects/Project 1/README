@@ -1,1 +1,7 @@
+Problem: People Fun, a mobile game developer located in Richardson, has begun working on a new mobile game called Army of Ants. The game is a simple, casual game where players control a colony of ants and must evade an invading colony of beetles. 
+Goal: The game will be played on a 10 x 10 grid. The user will specify the number of turns the game needs to run and the initial positions of the creatures. The creatures of the movement are orthogonal (N,S,E,W) and their level of precedence for movement is specified in Project1.pdf. The project must utilize an abstract class called Creature with Beetle and Ant classes as its children. 
+
+Input File: world.txt (user input for initial positions of the creatures)
+Output File: turns.txt
+
 
