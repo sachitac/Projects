@@ -1,1 +1,15 @@
+Problem: Harrison Wells is working to create an artificial speed force for Barry Allen (The Flash) so that he can
+recharge. The calculations for this task involve polynomial integration. A program is needed to develop and evaluate
+anti-derivatives. Since it is your first day at S.T.A.R. Labs, this task has been handed to you to complete.
 
+Goal: Create a program that calculates the integral of a given expression. 
+
+Example Input:
+| 3x^2 + 2x + 1 dx
+1|4 x^-2 +3x+4 dx
+-2|2 x^3 – 4x dx
+
+Example Output:
+x^3 + x^2 + x + C
+(3/2)x^2 + 4x -x^-1, 1|4 = 35.250
+(1/4)x^4 – 2x^2, -2|2 = 0
