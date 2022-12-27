@@ -1,1 +1,8 @@
+Problem: Nintendo is developing a new Mario baseball game for Nintendo Switch. As an (unpaid) intern for
+Nintendo this semester, you have been given the task of developing a system to calculate player stats and
+determine the league leaders in several different baseball categories, such as hits, strikeouts and walks. 
 
+Goal: Use linked lists to calculate baseball statistics and display the individual players' statistics 
+and the leaders for each league (hits, walkouts, strikeouts etc...).
+
+Input: sample_stats2.txt
